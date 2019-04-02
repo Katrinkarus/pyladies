@@ -1,0 +1,1 @@
+promenna = 1 < 2 

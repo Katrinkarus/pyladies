@@ -1,0 +1,1 @@
+print("Obvod štvorca je", 4*356)

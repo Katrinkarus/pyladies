@@ -1,0 +1,23 @@
+from turtle import forward, right, left, pensize, width, penup, pendown, exitonclick
+pensize(3)
+forward(225)
+left(90)
+forward(300)
+left(90)
+forward(225)
+left(90)
+forward(300)
+left(90)
+forward(225)
+left(90)
+forward(130)
+left(90)
+pensize(9)
+forward(90)
+right(90)
+forward(140)
+right(90)
+forward(90)
+
+
+exitonclick()
